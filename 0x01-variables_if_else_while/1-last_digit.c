@@ -5,7 +5,7 @@
 /* betty style doc for function main goes there */
 /**
  * main - Enrty point
- * Return: Always 0 (Complete)
+ * Return: 0 (Complete)
  */
 int main(void)
 {
