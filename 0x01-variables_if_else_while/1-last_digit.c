@@ -1,8 +1,5 @@
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
 /**
  * main - Enrty point
  * Return: 0 (Complete)
@@ -11,6 +8,7 @@ int main(void)
 {
 	int n;
 	int m;
+	
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
