@@ -1,24 +1,11 @@
-#include <stdio.h>
-/**
-  *main - Entry point
-  *Description: 'A program that prints alphabets lowercase and uppercase'
-  *Return: Always 0
-  */
+#include <stdlib.h>
+#include <time.h>
+/* more headers goes there */
+
+/* betty style doc for function main goes there */
 int main(void)
 {
-	char c;	
-	char d;
-
-	while 
-		(c <= 'z') {
-			putchar(c);
-			c++;
-		}
-	while 
-		(d <= 'z') {
-			putchar(d);
-			d++;
-		}	
-	putchar('\n');
+	int n;
+	int m
 	return (0);
 }
